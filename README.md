@@ -3,4 +3,4 @@ Predecir antes de ejecutar el programa, cuál será su salida
 Escribir tu predicción y fundamento de cada valor en éste
 archivo
 
-Respuesta:
+Respuesta: el programa devuelve la variable x con el valor de 0////////Finalmente el programa dio como resultado el valor de 11
